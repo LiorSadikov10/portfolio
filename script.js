@@ -30,12 +30,6 @@ $(document).ready(function(){
         backSpeed: 60,
         loop: true
     })
-    var typed = new Typed(".typing-2", {
-        strings: ["Front End Developer", "Full Stack Developer", "Web Developer", "Programmer"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    })
 
     // Owl Carousel Script
     $('.carousel').owlCarousel({

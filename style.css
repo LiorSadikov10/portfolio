@@ -186,7 +186,7 @@ section .title::after{
 
 /* About Section Styling */
 .about .title::after{
-    content: "Who I Am";
+    content: "In Short";
 }
 .about .about-content .left{
     width: 45%;
@@ -338,16 +338,16 @@ section .title::after{
     width: 90%;
 }
 .skills .skills-content .right .css::before{
-    width: 60%;
+    width: 85%;
 }
 .skills .skills-content .right .js::before{
-    width: 80%;
+    width: 85%;
 }
 .skills .skills-content .right .php::before{
-    width: 50%;
+    width: 70%;
 }
 .skills .skills-content .right .mysql::before{
-    width: 70%;
+    width: 50%;
 }
 
 /* Projects Section Styling */
